@@ -18,5 +18,7 @@ public class Cálculodelvalorcondescuento {
             System.out.println("Valor de la compra: $" + valorCompra);
             System.out.println("Descuento: " + descuento + "%");
             System.out.println("Valor final: $" + valorFinal);
-    }    
+        }
+    
+    
 }
