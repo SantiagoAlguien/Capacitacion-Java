@@ -1,7 +1,6 @@
 package java_primeros_pasos;
 
 public class Ejemplo {
-
 	public static void main(String[] args) {
 
         float puntoFlotante = 3.14f;
@@ -16,5 +15,4 @@ public class Ejemplo {
 
         System.out.println(total);
 	}
-
 }
