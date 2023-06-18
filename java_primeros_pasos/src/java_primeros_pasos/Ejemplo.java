@@ -3,11 +3,18 @@ package java_primeros_pasos;
 public class Ejemplo {
 
 	public static void main(String[] args) {
-		
-		double variable1 = 323.23;
-		int variable2 = (int) variable1;
-		
-		System.out.println(variable2);
+
+        float puntoFlotante = 3.14f;
+
+        double salario = 1270.50;
+        int valor = (int) salario;
+        System.out.println(valor);
+
+        double valor1 = 0.2;
+        double valor2 = 0.1;
+        double total = valor1 + valor2;
+
+        System.out.println(total);
 	}
 
 }
